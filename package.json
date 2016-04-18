@@ -1,0 +1,33 @@
+{
+  "name": "p5js-seed",
+  "version": "1.0.0",
+  "description": "Bootstraping p5js code",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.12.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.12.3",
+    "gulp-concat": "^2.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgno/p5js-seed.git"
+  },
+  "keywords": [
+    "p5js",
+    "creative",
+    "code"
+  ],
+  "author": "pgno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgno/p5js-seed/issues"
+  },
+  "homepage": "https://github.com/pgno/p5js-seed#readme"
+}
